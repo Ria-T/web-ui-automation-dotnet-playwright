@@ -2,7 +2,7 @@
 Simple tests for the classic Swag Labs website
 
 -	Tech stack: .NET 8 + Playwright (C#), SpecFlow (Gherkin), NUnit, Serilog
-(OS: Windows 10, IDE: Visual Studio)
+-	OS: Windows 10, IDE: Visual Studio
 
 
 - How to run:
